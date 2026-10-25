@@ -15,7 +15,7 @@ Cybersecurity | Network Security | Python | Machine Learning
 ## Project Overview
 
 The **Network Intrusion Detection System (IDS) Simulation** is an educational, defensive cybersecurity project. It generates safe synthetic network-flow data, evaluates each flow with detection rules and anomaly scoring, assigns a risk classification, and records alerts for investigation.
-
+     
 The FastAPI backend stores flow and alert records in a local SQLite database. The Streamlit dashboard presents operational metrics, alert details, analytics, and report exports.
 
 The project is intended for local learning and demonstration. It uses synthetic records; it does not capture live network traffic, scan external systems, or perform attacks.
